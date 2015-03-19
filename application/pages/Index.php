@@ -2,7 +2,7 @@
 
 class IndexAction extends Core_ActionAbstract
 {
-    public function proceed()
+    public function process()
     {
 
     }

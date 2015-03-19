@@ -7,7 +7,7 @@ class Admin_IndexAction extends Core_ActionAbstract
         $this->getView()->setLayoutScript('admin.phtml');
     }
 
-    public function proceed()
+    public function process()
     {
 
     }
